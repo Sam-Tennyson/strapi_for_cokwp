@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_moniter_ts",
+  "info": {
+    "displayName": "t",
+    "icon": "angry"
+  },
+  "options": {},
+  "attributes": {
+    "DAate": {
+      "type": "date"
+    }
+  }
+}

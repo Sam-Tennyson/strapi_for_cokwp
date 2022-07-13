@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_moniter_computers",
+  "info": {
+    "displayName": "Computer",
+    "icon": "calendar-times",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "button": {
+      "type": "string"
+    },
+    "Email": {
+      "type": "email"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "last_names",
+  "info": {
+    "singularName": "last-name",
+    "pluralName": "last-names",
+    "displayName": "lastName"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "LName": {
+      "type": "string"
+    }
+  }
+}
