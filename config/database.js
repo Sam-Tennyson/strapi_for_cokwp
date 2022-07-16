@@ -4,7 +4,7 @@ module.exports = ({env}) => ({
     client: "postgres",
     connection: {
       host: env("DATABASE_HOST", "localhost"),
-      port: env.int("DATABASE_PORT", 5432),
+      port: env.int("DATABASE_PORT", process.env.DATEBASE_PORT),
       database: env("DATABASE_NAME", "cokwp"),
       user: env("DATABASE_USERNAME", "postgres"),
       password: env("DATABASE_PASSWORD", "yahoo@123"),
