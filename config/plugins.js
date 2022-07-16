@@ -1,7 +1,7 @@
 // path: ./config/plugins.js
 
 module.exports = ({ env }) => ({
-    jwtSecret: env('JWT_SECRET', '0pnf5ShRpZ9JxAhg4FL1Lw==')    
+    jwtSecret: "2AW+eKW5EKkGu5iT+KXR9wSPEFinX+Ag+8Aik/BH+yDqW+HO5nJYc5x79wEtdMo+AP5gSDvNvwHFy/Z34g7i6z0EYErktVMynLx4HzGMWkf1v1brVAr4072aEcuvjdSpJBsjiGAtYsBWhbzT/zsgYPH1TzPAaLFV9hKbDIkrayCQBLit2grloy0EFWLtejBxmgPr+3XfmgCYD5MK8u39ihCckuMlJ1MLYUeUZafpeWgR6aCKywbT8Nzd7QNi8hSxqq2HXQm4nu10kzMqnLBbiDdKJsElWMQbiYudbNoa83TUH81IiykdN1tZ3fYnl46solOXYoylZRxwdSA6oDW0tw===="   
 });
   
 
